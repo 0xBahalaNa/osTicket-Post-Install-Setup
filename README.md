@@ -19,13 +19,13 @@ All work in this tutorial will be done in the "Admin Panel."
 
 <h2>Post-Install Setup</h2>
 
-- 1. Step 1: Add Roles
-- 2. Step 2: Add Departments
-- 3. Step 3: Add Teams
-- 4. Step 4: Add Agents
-- 5. Step 5: Add Users
-- 6. Step 6: Add Service Level Agreements (SLAs)
-- 7. Step 7: Add Help Topics
+1. Step 1: Add Roles
+2. Step 2: Add Departments
+3. Step 3: Add Teams
+4. Step 4: Add Agents
+5. Step 5: Add Users
+6. Step 6: Add Service Level Agreements (SLAs)
+7. Step 7: Add Help Topics
 
 <h2>Setup Steps</h2>
 
