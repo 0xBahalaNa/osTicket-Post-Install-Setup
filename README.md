@@ -3,7 +3,11 @@
 </p>
 
 <h1>osTicket - Post-Install Setup</h1>
-This tutorial will go over the post install setup of osTicket. This will require the complete of the prerequisites and install of osTicket. Please see the tutorial if that has not been done yet. The tutorial is [here](https://github.com/klcarpio/osTicket-Prerequisites-and-How-to-Install).
+This tutorial will go over the post install setup of osTicket. This will require the complete of the prerequisites and install of osTicket. Please see the tutorial if that has not been done yet. 
+
+<p></p>
+
+The tutorial is [here](https://github.com/klcarpio/osTicket-Prerequisites-and-How-to-Install).
 
 All work in this tutorial will be done in the "Admin Panel."
 
@@ -19,19 +23,13 @@ All work in this tutorial will be done in the "Admin Panel."
 
 <h2>Post-Install Setup</h2>
 
-Step 1: Add Roles
-
-Step 2: Add Departments
-
-Step 3: Add Teams
-
-Step 4: Add Agents
-
-Step 5: Add Users
-
-Step 6: Add Service Level Agreements (SLAs)
-
-Step 7: Add Help Topics
+- Step 1: Add Roles
+- Step 2: Add Departments
+- Step 3: Add Teams
+- Step 4: Add Agents
+- Step 5: Add Users
+- Step 6: Add Service Level Agreements (SLAs)
+- Step 7: Add Help Topics
 
 <h2>Setup Steps</h2>
 
@@ -73,7 +71,7 @@ Second step is add departments.
 <img src="https://i.imgur.com/AeRKqge.png" height="80%" width="80%" alt="8."/>
 </p>
 
-Ensure you do this before you move on. Go to "Settings" then "User Settings."
+Ensure you do this before you move on. Go to "Settings" then "User Settings." Make sure this setting is unchecked. 
 
 <p>
 <img src="https://i.imgur.com/C06CzAA.png" height="80%" width="80%" alt="9."/>
@@ -154,4 +152,4 @@ Seventh and final step is to add help topics. These topics can be selected by th
 <img src="https://i.imgur.com/r4fFjdU.png" height="80%" width="80%" alt="23."/>
 </p>
 
-After all that is done, osTicket is setup. The next tutorial will showcase how to submit tickets and answer them. This will be intuition for ticket systems for both users and IT professionals. 
+After all that is done, osTicket is setup. The next tutorial will showcase how to submit tickets and answer them. This will build intuition and skills for ticketing systems for both users and IT professionals. 
